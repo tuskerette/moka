@@ -1,0 +1,137 @@
+body {
+  background-color: #FF6C47;
+}
+
+#moka {
+  width: 180px;
+  height: 380px;
+  position: absolute;
+  top: 20px;
+  left: 60px;
+}
+
+
+#moka-container {
+  width: 250px;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+
+#bottom {
+  border-bottom: 100px solid #777;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  height: 0;
+  width: 100px;
+}
+
+#middle {
+  background-color: #777;
+  width: 100px;
+  height: 30px;
+  margin-left: 50px;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+}
+
+#line {
+  width: 215px;
+  height: 2px;
+  background-color: #000;
+}
+
+#top {
+  border-top: 70px solid #777;
+  border-left: 50px solid transparent;
+  border-right: 65px solid transparent;
+  height: 0;
+  width: 100px;
+}
+
+#lid {
+  border-bottom: 50px solid #777;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  height: 0;
+  width: 100px;
+}
+
+#tip {
+  width: 0;
+  height: 0;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-top: 30px solid #000;
+  margin-left: 80px;
+}
+
+#big-c {
+  font-family: courier;
+  font-size: 160px;
+  color: #000;
+  margin-left: -55px;
+  margin-top: -85px;
+  float: left;
+}
+
+.smoke-container {
+  width: 100px;
+  padding-top: 30px;
+  margin-left: 150px;
+}
+
+#smoke1 {
+  float: left;
+  padding: 10px;
+  margin-left: 15px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: #CCC;
+}
+
+#smoke2 {
+  float: left;
+  margin-top: 20px;
+  padding: 10px;
+  margin-left: 30px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: #CCC;
+}
+
+#smoke3 {
+  float: left;
+  padding: 10px;
+  margin-top: 50px;
+  margin-left: -25px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: #CCC;
+}
+
+#smoke4 {
+  float: left;
+  margin-top: 60px;
+  padding: 10px;
+  margin-left: -35px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: #CCC;
+}
+
+.title {
+  font-family: Courier;
+  margin-top: 350px;
+  margin-left: 180px;
+}
+
+p {
+  font-family: Courier;
+  font-size: 11px;
+}
+
+
